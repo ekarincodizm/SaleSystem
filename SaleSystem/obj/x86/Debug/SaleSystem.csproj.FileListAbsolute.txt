@@ -1,0 +1,35 @@
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\bin\Debug\SaleSystem.exe
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\bin\Debug\SaleSystem.pdb
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Login.resources
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Properties.Resources.resources
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.csproj.GenerateResource.Cache
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.exe
+c:\users\kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.pdb
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.employee.MainEmployee.resources
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.FirstMain.resources
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.goods.MainGoods.resources
+C:\Users\Kaewphiphop\Documents\Visual Studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.goods.AllGoods.resources
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.goods.Change.resources
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Report.orderReport.resources
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\bin\Debug\itextsharp.dll
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\bin\Debug\itextsharp.xtra.dll
+C:\Users\Kaewphiphop\documents\visual studio 2010\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Report.ReportEmployee.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.exe
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.pdb
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\bin\Debug\SaleSystem.exe
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\bin\Debug\SaleSystem.pdb
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.employee.MainEmployee.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.FirstMain.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Login.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.goods.AllGoods.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.goods.Change.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.goods.MainGoods.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Properties.Resources.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.Report.orderReport.resources
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Downloads\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.info.About.resources
+D:\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.exe
+D:\Projects\SaleSystem\SaleSystem\obj\x86\Debug\SaleSystem.pdb
