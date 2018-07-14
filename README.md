@@ -1,0 +1,2 @@
+# SaleSystem
+ใบเสร็จ
